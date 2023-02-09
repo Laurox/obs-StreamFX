@@ -5,7 +5,7 @@ StreamFX is a plugin to libOBS (OBS Studio, StreamElements OBS Live) that adds n
 [![CI](https://github.com/Xaymar/obs-StreamFX/workflows/CI/badge.svg)](https://github.com/Xaymar/obs-StreamFX/actions) [![Crowdin](https://badges.crowdin.net/obs-stream-effects/localized.svg)](https://crowdin.com/project/obs-stream-effects)
 
 ## Support the StreamFX project!
-Like any other free project, StreamFX relies on donations to be continuously developed and stay free. If StreamFX helped you, consider helping the StreamFX project by making a one time donation via [PayPal](https://www.paypal.me/xaymar), or a continuous donation via [Patreon](https://www.patreon.com/Xaymar) or [Github Sponsors](https://github.com/sponsors/Xaymar)!
+Like any other free project, StreamFX relies on donations to be continuously developed and stay free. If StreamFX helped you, consider helping the StreamFX project by making a one time donation via [PayPal](https://www.paypal.me/xaymar), or a continuous donation via [Patreon](https://www.patreon.com/Xaymar) or [Github Sponsors](https://github.com/sponsors/Xaymar)! You will get access to every Pre Release (Beta & Alpha Versions)
 
 ## Contributing
 There's two ways you can directly contribute to the project. One is by [submitting translations into your language on Crowdin](https://crowdin.com/project/obs-stream-effects), and the other is [by contributing code to the project](https://github.com/Xaymar/obs-StreamFX/blob/master/CONTRIBUTING.md).
